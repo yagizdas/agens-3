@@ -1,0 +1,37 @@
+# Credentials and machine-specific settings
+.env
+.env.*
+!.env.example
+**/secrets.toml
+*.pem
+*.key
+# Python builds, virtual environments, and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+.coverage
+htmlcov/
+# Local simulator installations, documents, and generated results
+ns-3-dev/
+ns-3.*/
+ns-allinone-*/
+ns3_vector_db/
+documents/*
+!documents/README.md
+outputs/
+saves/
+reports/
+reports.zip
+*.pcap
+*.dat
+# Operating system and editor state
+.DS_Store
+.idea/
+.vscode/
+*.code-workspace
