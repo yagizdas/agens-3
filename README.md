@@ -115,4 +115,4 @@ pytest
 
 ## Attribution
 
-This project builds on the GenOnet research and the original repository's code and attribution. The agens-3 paper is authored by Kemal Yağız Daşkıran and Ali Berat Ak. See [NOTICE.md](NOTICE.md) for the inherited citation and licensing status. No new license is asserted for inherited code.
+This project builds on the GenOnet research and the original repository's code and attribution. The agens-3 paper is authored by Kemal Yağız Daşkıran and Ali Berat Ak. The agens-3 authors' contributions are licensed under the [MIT License](LICENSE). Upstream materials retain their applicable terms; see [NOTICE.md](NOTICE.md) for attribution and scope.

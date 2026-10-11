@@ -7,6 +7,8 @@ name = "agens3"
 version = "0.1.0"
 description = "Agent orchestration for ns-3 network simulations"
 readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE", "NOTICE.md"]
 requires-python = ">=3.11,<3.14"
 authors = [{name = "Kemal Yağız Daşkıran"}, {name = "Ali Berat Ak"}]
 dependencies = [

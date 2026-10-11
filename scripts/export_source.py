@@ -7,6 +7,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 PUBLIC_FILES = (
     "README.md",
+    "LICENSE",
     "NOTICE.md",
     "CONTRIBUTING.md",
     "pyproject.toml",
